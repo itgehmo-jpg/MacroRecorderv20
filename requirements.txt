@@ -1,0 +1,4 @@
+pynput==1.7.7
+pywin32==306
+schedule==1.2.2
+pyinstaller==6.10.0
